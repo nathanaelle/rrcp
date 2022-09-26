@@ -1,0 +1,5 @@
+/go.work
+/.vscode
+
+.DS_Store
+*.test
